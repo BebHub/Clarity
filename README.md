@@ -54,9 +54,7 @@ Three AI-powered features:
 
 ## Sample Prompts Used 
 
-### Meeting Summarizer Prompt
-
-## Sample Prompts Used (Final Versions)
+## Sample Prompts Used
 
 ### Meeting Summarizer Prompt
 Extract from meeting notes: (1) Key decisions (2) Action items with person + deadline (3) Risks. 
