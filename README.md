@@ -52,8 +52,6 @@ Three AI-powered features:
 
 ---
 
-## Sample Prompts Used 
-
 ## Sample Prompts Used
 
 ### Meeting Summarizer Prompt
